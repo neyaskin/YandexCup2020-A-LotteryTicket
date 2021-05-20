@@ -1,4 +1,4 @@
-YandexCup2020  
+# YandexCup2020  
 
 A. Лотерейный билет<br/>
 
