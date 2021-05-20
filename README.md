@@ -40,5 +40,5 @@ Lucky <br/>
 Lucky <br/>
 
 Результаты работы и прохождение тестов  <br/>
-![Результат работы](https://github.com/qepqap/YandexCup2020-A-LotteryTicket/tree/master/Resources/ResultWork.jpg)
+![Результат работы](https://github.com/qepqap/YandexCup2020-A-LotteryTicket/tree/master/Resources/ResultWorkProg.jpg) <br/>
 ![Результат тестирования](https://github.com/qepqap/YandexCup2020-A-LotteryTicket/tree/master/Resources/ResultTest.jpg)
